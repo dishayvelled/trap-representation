@@ -8,4 +8,4 @@ And before you ask, vim and Emacs aren't really my cup of tea. I use [my own tex
 
 BTW, if you're one of those people who think it's fine to use erroneous constructs as long as it "works", check out [this animation I made about undefined behavior](https://youtu.be/-gVAP8YMlk0).
 
-Want to contact me? You can shoot me a mail at programmertotherescue AT gmail.com.
+Want to contact me? You can shoot me a mail at programmertotherescue AT gmail DOT com.
