@@ -8,7 +8,7 @@ And before you ask, vim and Emacs aren't really my cup of tea. I use [my own tex
 
 BTW, if you're one of those people who think it's fine to use erroneous constructs as long as it "works", check out [this animation I made about undefined behavior](https://youtu.be/-gVAP8YMlk0).
 
-Ways you can contact me:
+Want to contact me? Here are the platforms I am on:
 - Email: programmertotherescue AT gmail DOT com
 - Twitter: @sequence_point
 - Reddit: u/trap-representation
